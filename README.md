@@ -1,8 +1,14 @@
 ### Summary
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ken-sasaki2&hide=contribs&count_private=true&show_icons=true)](https://github.com/ken-sasaki-222/)　[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-sasaki2&layout=compact)](https://github.com/ken-sasaki-222/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ken-sasaki2&hide=contribs&count_private=true&show_icons=true)](https://github.com/ken-sasaki-222/)　
+
+
+### Languages
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-sasaki2&layout=compact)](https://github.com/ken-sasaki-222/)
+
 
 ### Twitter
 [![Twitter Follow](https://img.shields.io/twitter/follow/ken_sasaki2.svg?style=social)](https://twitter.com/ken_sasaki2) 
+
 
 ### Qiita
 <div>
