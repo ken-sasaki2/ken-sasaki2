@@ -1,9 +1,9 @@
 ### Summary
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ken-sasaki-222&hide=contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/ken-sasaki-222/)
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ken-sasaki2&hide=contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/ken-sasaki-222/)
 
 
 ### Languages
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-sasaki-222&layout=compact&theme=dark)](https://github.com/ken-sasaki-222/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-sasaki2&layout=compact&theme=dark)](https://github.com/ken-sasaki-222/)
 
 
 ### Twitter
