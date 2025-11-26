@@ -1,7 +1,3 @@
-### Summary
-[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ken-sasaki2&hide=contribs&count_private=true&show_icons=true)](https://github.com/ken-sasaki-222/)　
-
-
 ### X
 [![Twitter Follow](https://img.shields.io/twitter/follow/ken_sasaki2.svg?style=social)](https://twitter.com/ken_sasaki2) 
 
